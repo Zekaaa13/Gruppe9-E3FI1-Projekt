@@ -32,4 +32,4 @@ class Anwendungsentwickler:
     def __str__(self) -> str:
         "Name" + str(self.getName) + "Alter" + str(self.getAlter) + "Lieblingssprache" + str(self.lieblingsSprache)
 
-    # Yodi mit der Klasse bin ich schon fertig, wie siehts bei dir aus
+#net schön
